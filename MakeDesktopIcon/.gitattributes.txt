@@ -1,0 +1,2 @@
+//*后面的语言就是你Github错识别的语言
+*.HTML linguist-language=Objective-C 
