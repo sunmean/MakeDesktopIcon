@@ -1,6 +1,6 @@
 //
 //  FileUtils.m
-//  DeskIcon
+//  MakeDesktopIcon
 //
 //  Created by SongMin on 2019/11/6.
 //  Copyright © 2019 lovsoft. All rights reserved.
